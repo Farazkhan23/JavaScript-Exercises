@@ -1,0 +1,33 @@
+body{
+
+	text-align: center;
+	font-family: "Open Sans";
+	background-color: #192340;
+
+}
+
+h2{
+
+	font-size: 30px;
+	font-family: "Open Sans";
+	color: white;
+}
+
+p{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 20px;
+	color : white;
+}
+
+button{
+
+	padding: 15px 30px;
+	font-family: "Open Sans";
+	color : white;
+	background-color: green;
+	border: none;
+	border-radius: 10px;
+	margin : 5px;
+	font-size: 20px;
+}
