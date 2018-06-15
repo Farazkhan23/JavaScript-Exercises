@@ -1,0 +1,37 @@
+body{
+
+	font-family: "Open Sans";
+	background-color: #192340;
+	color: white;
+	text-align:center;
+}
+h3{
+
+	font-family: "Open Sans";
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+#btn{
+	background : #ec4c4c;
+	font-family: "Open Sans";
+	text-transform: uppercase;
+	color: white;
+	padding: 10px;
+	outline: none;
+	border-radius: 20px;
+	border : none;
+	box-shadow: 0px 2px 10px #000;	
+
+}
+#btn:hover{
+
+	transform: translateY(-2px);
+}
+
+#btn:active{
+	transform: translateY(4px);
+}
+
